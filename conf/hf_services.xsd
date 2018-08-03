@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:npcdef="http://ws.inpac.telcordia.com/npcDataTypes"
+	targetNamespace="http://ws.inpac.telcordia.com/npcDataTypes"
+	elementFormDefault="qualified" attributeFormDefault="unqualified">
+
+	<!-- _____________________________ Khai bao kieu simpleType _____________________________ -->
+	<xsd:simpleType name="WordSay">
+		<xsd:restriction base="xsd:string">
+			<xsd:minLength value="1" />
+			<xsd:maxLength value="1000" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="NumberSay">
+		<xsd:restriction base="xsd:string">
+			<xsd:minLength value="1" />
+			<xsd:maxLength value="1000" />
+			<xsd:pattern value="[0-9]*" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="UserIDType">
+		<xsd:restriction base="xsd:string">
+			<xsd:minLength value="1" />
+			<xsd:maxLength value="12" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="PasswordType">
+		<xsd:restriction base="xsd:string">
+			<xsd:minLength value="6" />
+			<xsd:maxLength value="15" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="ResultCodeType">
+		<xsd:restriction base="xsd:string">
+			<xsd:minLength value="7" />
+			<xsd:maxLength value="10" />
+			<xsd:pattern value="[A-Za-z0-9]*" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="Len200Str">
+		<xsd:restriction base="xsd:string">
+			<xsd:minLength value="1" />
+			<xsd:maxLength value="200" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="TransactionIDType">
+		<xsd:annotation>
+			<xsd:documentation>
+				Format: YYYYMMDDhhmissaannnnnnnn
+				where,
+				YYYY = year
+				(4 digits)
+				MM = month (2 digits)
+				DD = day of month (2 digits)
+				hh = hour
+				(2 digits)
+				mi = minutes (2 digits)
+				ss = seconds (2 digits)
+				aa =
+				Participant ID (2 digits)
+				nnnnnnnn = sequence number (8 digits)
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:string">
+			<xsd:length value="24" fixed="true" />
+			<xsd:pattern value="[0-9]*" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:simpleType name="TimeStampType">
+		<xsd:annotation>
+			<xsd:documentation>
+				Format: YYYYMMDDhhmiss
+				where,
+				YYYY = year (4 digits)
+				MM = month (2 digits)
+				DD = day of month (2 digits)
+				hh = hour (2
+				digits)
+				mi = minutes (2 digits)
+				ss = seconds (2 digits)
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:string">
+			<xsd:length value="14" fixed="true" />
+			<xsd:pattern value="[0-9]*" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	<!-- _____________________________________________________________________________________ -->
+
+
+	<!-- _____________________________ Khai bao kieu complexType _____________________________ -->
+	<xsd:complexType name="AuthDetailsType">
+		<xsd:sequence>
+			<xsd:element name="UserID" type="npcdef:UserIDType" />
+			<xsd:element name="Password" type="npcdef:PasswordType" />
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="NPCDataType">
+		<xsd:sequence>
+			<xsd:element name="MessageHeader" type="npcdef:MessageHeaderType" />
+			<xsd:element name="NPCMessage" type="npcdef:NPCMessageType" />
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="MessageHeaderType">
+		<xsd:sequence>
+			<xsd:element name="TransactionID" type="npcdef:TransactionIDType"
+				minOccurs="0" maxOccurs="1" />
+			<xsd:element name="MsgCreateTimestamp" type="npcdef:TimeStampType"
+				minOccurs="0" />
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="NPCMessageType">
+		<xsd:choice>
+			<xsd:element name="WordSay" type="npcdef:WordSay" />
+			<xsd:element name="NumberSay" type="npcdef:NumberSay" />
+		</xsd:choice>
+	</xsd:complexType>
+	
+	<xsd:complexType name="RetResultType">
+		<xsd:sequence>
+			<xsd:element name="ResultCode" type="npcdef:ResultCodeType" />
+			<xsd:element name="ResultDesc" type="npcdef:Len200Str" />
+		</xsd:sequence>
+	</xsd:complexType>
+	<!-- ______________________________________________________________________________________ -->
+
+
+</xsd:schema>

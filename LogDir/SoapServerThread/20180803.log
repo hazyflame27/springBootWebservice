@@ -1,0 +1,423 @@
+03/08 09:50:01 Spring Boot Server started
+03/08 09:50:01 Starting webservice MNPCM
+03/08 09:50:05 Webservice MNPCM is started at Fri Aug 03 09:50:05 ICT 2018
+03/08 09:50:05 Webservice MNPCM is alive
+03/08 09:50:15 Webservice MNPCM is alive
+03/08 09:50:25 Webservice MNPCM is alive
+03/08 09:50:35 Webservice MNPCM is alive
+03/08 09:50:45 Webservice MNPCM is alive
+03/08 09:50:55 Webservice MNPCM is alive
+03/08 09:51:05 Webservice MNPCM is alive
+03/08 09:51:15 Webservice MNPCM is alive
+03/08 09:51:25 Webservice MNPCM is alive
+03/08 09:51:35 Webservice MNPCM is alive
+03/08 09:51:45 Webservice MNPCM is alive
+03/08 09:51:55 Webservice MNPCM is alive
+03/08 09:52:05 Webservice MNPCM is alive
+03/08 09:52:15 Webservice MNPCM is alive
+03/08 09:52:25 Webservice MNPCM is alive
+03/08 09:52:35 Webservice MNPCM is alive
+03/08 09:52:45 Webservice MNPCM is alive
+03/08 09:52:55 Webservice MNPCM is alive
+03/08 09:53:05 Webservice MNPCM is alive
+03/08 09:53:15 Webservice MNPCM is alive
+03/08 09:53:25 Webservice MNPCM is alive
+03/08 09:53:35 Webservice MNPCM is alive
+03/08 09:53:45 Webservice MNPCM is alive
+03/08 09:53:55 Webservice MNPCM is alive
+03/08 09:54:05 Webservice MNPCM is alive
+03/08 09:54:15 Webservice MNPCM is alive
+03/08 09:54:25 Webservice MNPCM is alive
+03/08 09:54:35 Webservice MNPCM is alive
+03/08 09:54:45 Webservice MNPCM is alive
+03/08 09:54:55 Webservice MNPCM is alive
+03/08 09:55:05 Webservice MNPCM is alive
+03/08 09:55:15 Webservice MNPCM is alive
+03/08 09:55:25 Webservice MNPCM is alive
+03/08 09:55:35 Webservice MNPCM is alive
+03/08 09:55:45 Webservice MNPCM is alive
+03/08 09:55:55 Webservice MNPCM is alive
+03/08 09:56:05 Webservice MNPCM is alive
+03/08 09:56:15 Webservice MNPCM is alive
+03/08 09:56:25 Webservice MNPCM is alive
+03/08 09:56:35 Webservice MNPCM is alive
+03/08 09:56:45 Webservice MNPCM is alive
+03/08 09:56:55 Webservice MNPCM is alive
+03/08 09:57:05 Webservice MNPCM is alive
+03/08 09:57:15 Webservice MNPCM is alive
+03/08 09:57:25 Webservice MNPCM is alive
+03/08 09:57:35 Webservice MNPCM is alive
+03/08 09:57:45 Webservice MNPCM is alive
+03/08 09:57:55 Webservice MNPCM is alive
+03/08 09:58:06 Webservice MNPCM is alive
+03/08 09:58:16 Webservice MNPCM is alive
+03/08 09:58:26 Webservice MNPCM is alive
+03/08 09:58:36 Webservice MNPCM is alive
+03/08 09:58:46 Webservice MNPCM is alive
+03/08 09:58:56 Webservice MNPCM is alive
+03/08 09:59:06 Webservice MNPCM is alive
+03/08 09:59:16 Webservice MNPCM is alive
+03/08 09:59:26 Webservice MNPCM is alive
+03/08 09:59:36 Webservice MNPCM is alive
+03/08 09:59:46 Webservice MNPCM is alive
+03/08 09:59:56 Webservice MNPCM is alive
+03/08 10:00:06 Webservice MNPCM is alive
+03/08 10:00:16 Webservice MNPCM is alive
+03/08 10:00:26 Webservice MNPCM is alive
+03/08 10:00:36 Webservice MNPCM is alive
+03/08 10:00:47 Webservice MNPCM is alive
+03/08 10:00:57 Webservice MNPCM is alive
+03/08 10:01:07 Webservice MNPCM is alive
+03/08 10:01:17 Webservice MNPCM is alive
+03/08 10:01:27 Webservice MNPCM is alive
+03/08 10:01:37 Webservice MNPCM is alive
+03/08 10:01:47 Webservice MNPCM is alive
+03/08 10:01:57 Webservice MNPCM is alive
+03/08 10:02:07 Webservice MNPCM is alive
+03/08 10:02:18 Webservice MNPCM is alive
+03/08 10:02:28 Webservice MNPCM is alive
+03/08 10:02:38 Webservice MNPCM is alive
+03/08 10:02:48 Webservice MNPCM is alive
+03/08 10:02:58 Webservice MNPCM is alive
+03/08 10:26:56 Spring Boot Server started
+03/08 10:26:57 Starting webservice MNPCM
+03/08 10:26:58 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.*' in value "${com.test.sayHelloWorld.*}"
+03/08 10:27:08 Starting webservice MNPCM
+03/08 10:27:08 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.*' in value "${com.test.sayHelloWorld.*}"
+03/08 10:27:19 Starting webservice MNPCM
+03/08 10:27:19 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.*' in value "${com.test.sayHelloWorld.*}"
+03/08 10:27:29 Starting webservice MNPCM
+03/08 10:27:29 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.*' in value "${com.test.sayHelloWorld.*}"
+03/08 10:27:40 Starting webservice MNPCM
+03/08 10:27:40 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.*' in value "${com.test.sayHelloWorld.*}"
+03/08 10:27:50 Starting webservice MNPCM
+03/08 10:27:50 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.*' in value "${com.test.sayHelloWorld.*}"
+03/08 10:28:01 Starting webservice MNPCM
+03/08 10:28:01 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.*' in value "${com.test.sayHelloWorld.*}"
+03/08 10:28:16 Starting webservice MNPCM
+03/08 10:28:16 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.*' in value "${com.test.sayHelloWorld.*}"
+03/08 10:28:29 Starting webservice MNPCM
+03/08 10:28:29 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.*' in value "${com.test.sayHelloWorld.*}"
+03/08 10:28:39 Starting webservice MNPCM
+03/08 10:28:39 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.*' in value "${com.test.sayHelloWorld.*}"
+03/08 10:28:54 Starting webservice MNPCM
+03/08 10:28:54 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.*' in value "${com.test.sayHelloWorld.*}"
+03/08 10:29:25 Spring Boot Server started
+03/08 10:29:25 Starting webservice MNPCM
+03/08 10:29:26 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.controller.*' in value "${com.test.sayHelloWorld.controller.*}"
+03/08 10:29:36 Starting webservice MNPCM
+03/08 10:29:37 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.controller.*' in value "${com.test.sayHelloWorld.controller.*}"
+03/08 10:29:47 Starting webservice MNPCM
+03/08 10:29:47 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.controller.*' in value "${com.test.sayHelloWorld.controller.*}"
+03/08 10:29:58 Starting webservice HF
+03/08 10:29:58 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.controller.*' in value "${com.test.sayHelloWorld.controller.*}"
+03/08 10:30:08 Starting webservice HF
+03/08 10:30:08 Error occured: Failed to parse configuration class [com.test.sayHelloWorld.server.HFSoapServer]; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'com.test.sayHelloWorld.controller.*' in value "${com.test.sayHelloWorld.controller.*}"
+03/08 10:32:29 Spring Boot Server started
+03/08 10:32:29 Starting webservice HF
+03/08 10:32:34 Webservice HF is started at Fri Aug 03 10:32:34 ICT 2018
+03/08 10:32:34 Webservice HF is alive
+03/08 10:32:44 Webservice HF is alive
+03/08 10:32:54 Webservice HF is alive
+03/08 10:33:04 Webservice HF is alive
+03/08 10:33:14 Webservice HF is alive
+03/08 10:33:24 Webservice HF is alive
+03/08 10:33:34 Webservice HF is alive
+03/08 10:33:44 Webservice HF is alive
+03/08 10:33:54 Webservice HF is alive
+03/08 10:34:05 Webservice HF is alive
+03/08 10:34:15 Webservice HF is alive
+03/08 10:34:25 Webservice HF is alive
+03/08 10:53:11 Spring Boot Server started
+03/08 10:53:11 Starting webservice HF
+03/08 10:53:20 Webservice HF is started at Fri Aug 03 10:53:20 ICT 2018
+03/08 10:53:20 Webservice HF is alive
+03/08 10:53:30 Webservice HF is alive
+03/08 10:53:40 Webservice HF is alive
+03/08 10:53:50 Webservice HF is alive
+03/08 10:54:00 Webservice HF is alive
+03/08 10:54:10 Webservice HF is alive
+03/08 10:54:20 Webservice HF is alive
+03/08 10:54:30 Webservice HF is alive
+03/08 10:54:40 Webservice HF is alive
+03/08 10:54:51 Webservice HF is alive
+03/08 10:55:01 Webservice HF is alive
+03/08 10:55:11 Webservice HF is alive
+03/08 10:55:21 Webservice HF is alive
+03/08 10:55:31 Webservice HF is alive
+03/08 10:55:41 Webservice HF is alive
+03/08 10:55:51 Webservice HF is alive
+03/08 10:56:01 Webservice HF is alive
+03/08 10:56:11 Webservice HF is alive
+03/08 10:56:21 Webservice HF is alive
+03/08 10:56:31 Webservice HF is alive
+03/08 10:56:41 Webservice HF is alive
+03/08 10:56:51 Webservice HF is alive
+03/08 10:57:01 Webservice HF is alive
+03/08 10:57:11 Webservice HF is alive
+03/08 10:57:21 Webservice HF is alive
+03/08 10:57:31 Webservice HF is alive
+03/08 10:57:41 Webservice HF is alive
+03/08 10:57:51 Webservice HF is alive
+03/08 10:58:01 Webservice HF is alive
+03/08 10:58:11 Webservice HF is alive
+03/08 10:58:21 Webservice HF is alive
+03/08 10:58:31 Webservice HF is alive
+03/08 10:58:41 Webservice HF is alive
+03/08 10:58:51 Webservice HF is alive
+03/08 10:59:01 Webservice HF is alive
+03/08 10:59:11 Webservice HF is alive
+03/08 10:59:21 Webservice HF is alive
+03/08 10:59:31 Webservice HF is alive
+03/08 10:59:41 Webservice HF is alive
+03/08 10:59:51 Webservice HF is alive
+03/08 11:00:01 Webservice HF is alive
+03/08 11:00:11 Webservice HF is alive
+03/08 11:00:21 Webservice HF is alive
+03/08 11:00:31 Webservice HF is alive
+03/08 11:00:41 Webservice HF is alive
+03/08 11:00:51 Webservice HF is alive
+03/08 11:01:01 Webservice HF is alive
+03/08 11:01:11 Webservice HF is alive
+03/08 11:01:21 Webservice HF is alive
+03/08 11:01:31 Webservice HF is alive
+03/08 11:01:41 Webservice HF is alive
+03/08 11:01:51 Webservice HF is alive
+03/08 11:02:01 Webservice HF is alive
+03/08 11:02:11 Webservice HF is alive
+03/08 11:02:21 Webservice HF is alive
+03/08 11:02:31 Webservice HF is alive
+03/08 11:02:41 Webservice HF is alive
+03/08 11:02:51 Webservice HF is alive
+03/08 11:03:01 Webservice HF is alive
+03/08 11:03:11 Webservice HF is alive
+03/08 11:04:18 Spring Boot Server started
+03/08 11:04:18 Starting webservice HF
+03/08 11:04:23 Webservice HF is started at Fri Aug 03 11:04:23 ICT 2018
+03/08 11:04:23 Webservice HF is alive
+03/08 11:04:33 Webservice HF is alive
+03/08 11:04:43 Webservice HF is alive
+03/08 11:04:53 Webservice HF is alive
+03/08 11:05:03 Webservice HF is alive
+03/08 11:05:13 Webservice HF is alive
+03/08 11:05:23 Webservice HF is alive
+03/08 11:05:33 Webservice HF is alive
+03/08 11:05:43 Webservice HF is alive
+03/08 11:05:53 Webservice HF is alive
+03/08 11:06:03 Webservice HF is alive
+03/08 11:06:13 Webservice HF is alive
+03/08 11:06:23 Webservice HF is alive
+03/08 11:06:33 Webservice HF is alive
+03/08 11:06:43 Webservice HF is alive
+03/08 11:06:53 Webservice HF is alive
+03/08 11:07:03 Webservice HF is alive
+03/08 11:07:13 Webservice HF is alive
+03/08 11:07:23 Webservice HF is alive
+03/08 11:07:33 Webservice HF is alive
+03/08 11:07:43 Webservice HF is alive
+03/08 11:07:53 Webservice HF is alive
+03/08 11:08:03 Webservice HF is alive
+03/08 11:08:13 Webservice HF is alive
+03/08 11:08:23 Webservice HF is alive
+03/08 11:08:33 Webservice HF is alive
+03/08 11:08:43 Webservice HF is alive
+03/08 11:08:53 Webservice HF is alive
+03/08 11:09:03 Webservice HF is alive
+03/08 11:09:13 Webservice HF is alive
+03/08 11:09:23 Webservice HF is alive
+03/08 11:09:33 Webservice HF is alive
+03/08 11:09:43 Webservice HF is alive
+03/08 11:09:53 Webservice HF is alive
+03/08 11:10:03 Webservice HF is alive
+03/08 11:10:13 Webservice HF is alive
+03/08 11:10:23 Webservice HF is alive
+03/08 11:10:33 Webservice HF is alive
+03/08 11:10:43 Webservice HF is alive
+03/08 11:10:53 Webservice HF is alive
+03/08 11:11:03 Webservice HF is alive
+03/08 11:11:13 Webservice HF is alive
+03/08 11:11:23 Webservice HF is alive
+03/08 11:11:33 Webservice HF is alive
+03/08 11:11:43 Webservice HF is alive
+03/08 11:11:53 Webservice HF is alive
+03/08 11:12:03 Webservice HF is alive
+03/08 11:12:13 Webservice HF is alive
+03/08 11:12:23 Webservice HF is alive
+03/08 11:12:33 Webservice HF is alive
+03/08 11:12:43 Webservice HF is alive
+03/08 11:12:53 Webservice HF is alive
+03/08 11:13:03 Webservice HF is alive
+03/08 11:13:13 Webservice HF is alive
+03/08 11:13:23 Webservice HF is alive
+03/08 11:13:33 Webservice HF is alive
+03/08 11:13:43 Webservice HF is alive
+03/08 11:13:53 Webservice HF is alive
+03/08 11:14:03 Webservice HF is alive
+03/08 11:14:13 Webservice HF is alive
+03/08 11:14:23 Webservice HF is alive
+03/08 11:14:33 Webservice HF is alive
+03/08 11:14:43 Webservice HF is alive
+03/08 11:14:53 Webservice HF is alive
+03/08 11:15:03 Webservice HF is alive
+03/08 11:15:13 Webservice HF is alive
+03/08 11:15:23 Webservice HF is alive
+03/08 11:15:33 Webservice HF is alive
+03/08 11:15:43 Webservice HF is alive
+03/08 11:15:53 Webservice HF is alive
+03/08 11:16:03 Webservice HF is alive
+03/08 11:16:13 Webservice HF is alive
+03/08 11:16:23 Webservice HF is alive
+03/08 11:16:33 Webservice HF is alive
+03/08 11:16:43 Webservice HF is alive
+03/08 11:16:53 Webservice HF is alive
+03/08 11:17:03 Webservice HF is alive
+03/08 11:17:13 Webservice HF is alive
+03/08 11:17:23 Webservice HF is alive
+03/08 11:17:33 Webservice HF is alive
+03/08 11:17:43 Webservice HF is alive
+03/08 11:17:53 Webservice HF is alive
+03/08 11:18:03 Webservice HF is alive
+03/08 11:18:13 Webservice HF is alive
+03/08 11:18:23 Webservice HF is alive
+03/08 11:18:33 Webservice HF is alive
+03/08 11:18:43 Webservice HF is alive
+03/08 11:18:53 Webservice HF is alive
+03/08 11:19:03 Webservice HF is alive
+03/08 11:19:13 Webservice HF is alive
+03/08 11:19:23 Webservice HF is alive
+03/08 11:19:33 Webservice HF is alive
+03/08 11:19:43 Webservice HF is alive
+03/08 11:19:53 Webservice HF is alive
+03/08 11:20:03 Webservice HF is alive
+03/08 11:20:13 Webservice HF is alive
+03/08 11:20:23 Webservice HF is alive
+03/08 11:20:33 Webservice HF is alive
+03/08 11:20:43 Webservice HF is alive
+03/08 11:20:53 Webservice HF is alive
+03/08 11:21:03 Webservice HF is alive
+03/08 11:21:13 Webservice HF is alive
+03/08 11:21:23 Webservice HF is alive
+03/08 11:21:33 Webservice HF is alive
+03/08 11:21:43 Webservice HF is alive
+03/08 11:21:53 Webservice HF is alive
+03/08 11:22:03 Webservice HF is alive
+03/08 11:22:13 Webservice HF is alive
+03/08 11:22:23 Webservice HF is alive
+03/08 11:22:33 Webservice HF is alive
+03/08 11:22:43 Webservice HF is alive
+03/08 11:22:53 Webservice HF is alive
+03/08 11:23:03 Webservice HF is alive
+03/08 11:34:59 Spring Boot Server started
+03/08 11:34:59 Starting webservice HF
+03/08 11:35:04 Webservice HF is started at Fri Aug 03 11:35:04 ICT 2018
+03/08 11:35:04 Webservice HF is alive
+03/08 11:35:14 Webservice HF is alive
+03/08 11:35:24 Webservice HF is alive
+03/08 11:35:34 Webservice HF is alive
+03/08 11:35:44 Webservice HF is alive
+03/08 11:35:54 Webservice HF is alive
+03/08 11:36:04 Webservice HF is alive
+03/08 11:36:14 Webservice HF is alive
+03/08 11:36:24 Webservice HF is alive
+03/08 11:36:34 Webservice HF is alive
+03/08 11:36:44 Webservice HF is alive
+03/08 11:36:54 Webservice HF is alive
+03/08 11:37:04 Webservice HF is alive
+03/08 11:37:14 Webservice HF is alive
+03/08 11:37:24 Webservice HF is alive
+03/08 11:37:34 Webservice HF is alive
+03/08 11:37:44 Webservice HF is alive
+03/08 11:37:54 Webservice HF is alive
+03/08 11:38:04 Webservice HF is alive
+03/08 11:38:14 Webservice HF is alive
+03/08 11:38:24 Webservice HF is alive
+03/08 11:38:34 Webservice HF is alive
+03/08 11:38:44 Webservice HF is alive
+03/08 11:38:54 Webservice HF is alive
+03/08 11:39:04 Webservice HF is alive
+03/08 11:39:14 Webservice HF is alive
+03/08 11:39:24 Webservice HF is alive
+03/08 11:39:34 Webservice HF is alive
+03/08 11:39:44 Webservice HF is alive
+03/08 11:39:54 Webservice HF is alive
+03/08 11:40:04 Webservice HF is alive
+03/08 11:41:41 Spring Boot Server started
+03/08 11:41:42 Starting webservice HF
+03/08 11:41:46 Webservice HF is started at Fri Aug 03 11:41:46 ICT 2018
+03/08 11:41:46 Webservice HF is alive
+03/08 11:41:56 Webservice HF is alive
+03/08 11:42:06 Webservice HF is alive
+03/08 11:42:16 Webservice HF is alive
+03/08 11:42:26 Webservice HF is alive
+03/08 11:42:36 Webservice HF is alive
+03/08 11:42:48 Spring Boot Server started
+03/08 11:42:48 Starting webservice HF
+03/08 11:42:53 Webservice HF is started at Fri Aug 03 11:42:53 ICT 2018
+03/08 11:42:53 Webservice HF is alive
+03/08 11:43:03 Webservice HF is alive
+03/08 11:43:13 Webservice HF is alive
+03/08 11:43:23 Webservice HF is alive
+03/08 11:43:33 Webservice HF is alive
+03/08 11:43:43 Webservice HF is alive
+03/08 11:43:53 Webservice HF is alive
+03/08 11:44:03 Webservice HF is alive
+03/08 11:44:13 Webservice HF is alive
+03/08 11:44:23 Webservice HF is alive
+03/08 11:44:33 Webservice HF is alive
+03/08 11:44:43 Webservice HF is alive
+03/08 11:44:53 Webservice HF is alive
+03/08 11:45:03 Webservice HF is alive
+03/08 11:45:13 Webservice HF is alive
+03/08 11:45:23 Webservice HF is alive
+03/08 11:45:33 Webservice HF is alive
+03/08 11:45:43 Webservice HF is alive
+03/08 11:45:53 Webservice HF is alive
+03/08 11:46:03 Webservice HF is alive
+03/08 11:53:18 Spring Boot Server started
+03/08 11:53:19 Starting webservice HF
+03/08 11:53:23 Webservice HF is started at Fri Aug 03 11:53:23 ICT 2018
+03/08 11:53:23 Webservice HF is alive
+03/08 11:53:33 Webservice HF is alive
+03/08 11:53:43 Webservice HF is alive
+03/08 11:53:53 Webservice HF is alive
+03/08 11:54:03 Webservice HF is alive
+03/08 11:54:13 Webservice HF is alive
+03/08 11:54:23 Webservice HF is alive
+03/08 11:54:33 Webservice HF is alive
+03/08 11:54:43 Webservice HF is alive
+03/08 11:54:53 Webservice HF is alive
+03/08 11:55:03 Webservice HF is alive
+03/08 11:55:13 Webservice HF is alive
+03/08 11:55:23 Webservice HF is alive
+03/08 11:55:33 Webservice HF is alive
+03/08 11:55:43 Webservice HF is alive
+03/08 11:55:53 Webservice HF is alive
+03/08 11:56:03 Webservice HF is alive
+03/08 11:56:13 Webservice HF is alive
+03/08 11:56:23 Webservice HF is alive
+03/08 11:56:33 Webservice HF is alive
+03/08 11:56:43 Webservice HF is alive
+03/08 11:56:53 Webservice HF is alive
+03/08 11:57:03 Webservice HF is alive
+03/08 11:57:13 Webservice HF is alive
+03/08 11:57:23 Webservice HF is alive
+03/08 11:57:33 Webservice HF is alive
+03/08 11:57:44 Webservice HF is alive
+03/08 11:57:54 Webservice HF is alive
+03/08 11:58:04 Webservice HF is alive
+03/08 11:58:14 Webservice HF is alive
+03/08 11:58:24 Webservice HF is alive
+03/08 11:58:34 Webservice HF is alive
+03/08 11:58:44 Webservice HF is alive
+03/08 11:58:54 Webservice HF is alive
+03/08 11:59:04 Webservice HF is alive
+03/08 11:59:14 Webservice HF is alive
+03/08 12:03:45 Spring Boot Server started
+03/08 12:03:46 Starting webservice HF
+03/08 12:03:50 Webservice HF is started at Fri Aug 03 12:03:50 ICT 2018
+03/08 12:03:50 Webservice HF is alive
+03/08 12:04:00 Webservice HF is alive
+03/08 12:04:10 Webservice HF is alive
+03/08 12:04:20 Webservice HF is alive
+03/08 12:04:30 Webservice HF is alive
+03/08 12:04:40 Webservice HF is alive
